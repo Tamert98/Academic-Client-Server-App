@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was developed as part of a university Software Engineering course.
+This project was developed as part of a Software Engineering course.
 
 It is a multi-user client-server application designed to manage structured workflows between different user roles. The project focuses on client-server communication, database integration, application logic, role-based access, and desktop GUI development.
 
