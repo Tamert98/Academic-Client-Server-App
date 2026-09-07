@@ -5,7 +5,7 @@
 The College Examination Management System (CEMS) is an information system designed to centralize and improve the efficiency of handling tests in the college environment. The system aims to manage the creation, performance, grading, and statistical analysis of tests.
 <br/><br/>
 ## Demo
-<img src="https://github.com/rsCode1/Cems/blob/main/demo-git.gif" width="600" height="375"/>
+<img src="https://github.com/Tamert98/Academic-Client-Server-App/blob/main/demo-git.gif" width="600" height="375"/>
 
 
 ## System Capabilities
